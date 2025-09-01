@@ -25,8 +25,6 @@ Styled with Tailwind CSS, this project is ideal for developers, students, and an
 
 ✅ RESTful API integration
 
-✅ Deployed on [Heroku/Render/Vercel/etc.] (optional, add later)
-
 🛠 Tech Stack
 
 Frontend: React.js, Tailwind CSS
