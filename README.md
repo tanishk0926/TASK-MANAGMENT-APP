@@ -32,4 +32,4 @@ Backend: Node.js, Express.js
 
 Database: MongoDB (Mongoose ODM)
 
-Tools: Git, npm/yarn IF I ADD THIS MUCH ONLY I THAT GOOD
+Tools: Git, npm/yarn
