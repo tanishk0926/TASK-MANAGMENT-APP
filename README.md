@@ -1,6 +1,5 @@
 🚀 Task Manager App (MERN Stack)
 
-Ready to master full-stack web development?
 This project is a fully functional Task Manager App built with the MERN stack:
 
 MongoDB for the database
